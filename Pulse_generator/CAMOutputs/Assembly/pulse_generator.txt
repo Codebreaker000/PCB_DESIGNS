@@ -1,0 +1,9 @@
+Partlist exported from C:/Users/Devil Eye/Desktop/e_s/Pulse_generator/pulse_generator.sch at 04/04/2023 15:01
+
+Qty Value  Device          Package      Parts  Description                   MF                MPN    OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+1          PINHD-1X1       1X01         JP1    PIN HEADER                                                                  64                    
+1          PINHD-1X2       1X02         JP2    PIN HEADER                                                                  98                    
+2   0.01uf C-EU050-024X044 C050-024X044 C1, C2 CAPACITOR, European symbol                                                  33         C          
+1   100K   R-US_0204/7     0204/7       R2     RESISTOR, American symbol                                                   48         R          
+1   1M     R-US_0204/7     0204/7       R1     RESISTOR, American symbol                                                   48         R          
+1   NE555  NE555           DIL-08       IC1    General purpose bipolar Timer Arrow Electronics NE555N 1467742    89K1486   24                    
